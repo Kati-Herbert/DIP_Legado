@@ -1,0 +1,15 @@
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\obj\Debug\net8.0\DIP_Legado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\obj\Debug\net8.0\DIP_Legado.AssemblyInfoInputs.cache
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\obj\Debug\net8.0\DIP_Legado.AssemblyInfo.cs
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\obj\Debug\net8.0\DIP_Legado.csproj.CoreCompileInputs.cache
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\obj\Debug\net8.0\DIP_Legado.sourcelink.json
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\bin\Debug\net8.0\DIP_Legado.exe
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\bin\Debug\net8.0\DIP_Legado.deps.json
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\bin\Debug\net8.0\DIP_Legado.runtimeconfig.json
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\bin\Debug\net8.0\DIP_Legado.dll
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\bin\Debug\net8.0\DIP_Legado.pdb
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\obj\Debug\net8.0\DIP_Legado.dll
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\obj\Debug\net8.0\refint\DIP_Legado.dll
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\obj\Debug\net8.0\DIP_Legado.pdb
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\obj\Debug\net8.0\DIP_Legado.genruntimeconfig.cache
+C:\Users\katie\Desktop\DIP_Legado\DIP_Legado\obj\Debug\net8.0\ref\DIP_Legado.dll
